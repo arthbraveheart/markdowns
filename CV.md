@@ -17,6 +17,7 @@ Juiz de Fora, Minas Gerais, Brasil
 ## Overview
 
 Experienced in data analysis, with focus on skills such as web scraping, ETL processes, cloud database integration, CRM performance and report visualization using Business Intelligence tools. 
+
 Previusly, I worked in the team of the Performance Management team at   ABC da Construção, focusing on three main areas: Pricing, CRM performance, and Business Intelligence Reports.
 
 In Pricing, I develop solutions for monitoring and analyzing competitor prices to enhance the company's profitability. In CRM performance, I handle the entire ETL process of CRM information related to the portfolio of prospective franchisees and generate relevant daily reports.
@@ -35,39 +36,38 @@ julho de 2024 - agosto de 2024 (2 meses)
 Juiz de Fora, Minas Gerais, Brasil
 
 ### ABC da Construção S.A.
-2 anos 2 meses
 Business Analyst
 - In Pricing, I develop solutions for monitoring and analyzing competitor prices to enhance the company's profitability. In CRM performance, I handle the entire ETL process of CRM information related to the portfolio of prospective franchisees and generate relevant daily reports.
 julho de 2023 - julho de 2024 (1 ano 1 mês)
 Juiz de Fora, Minas Gerais, Brasil
 
 SDR
-junho de 2022 - julho de 2023 (1 ano 2 meses) Juiz de Fora, Minas Gerais, Brasil
+- junho de 2022 - julho de 2023 (1 ano 2 meses) Juiz de Fora, Minas Gerais, Brasil
 
-Kosmos Rocketry ·
+### Kosmos Rocketry
 Propulsion Sector ·
 setembro de 2018 - dezembro de 2019 (1 ano 4 meses) · Joinville, Santa Catarina, Brasil
-Research and development of the Solid-propellant Rocket Motor Class "i" and Class "M".
+- Research and development of the Solid-propellant Rocket Motor Class "i" and Class "M".
 Static fire tests with Class "i" Motor.
 Sugar based Solid-Propellants researches and testing.
 
-Universidade Federal de Santa Catarina
-Calculus Discipline Assistent
+### Universidade Federal de Santa Catarina
+Calculus Discipline Assistent · 
 março de 2019 - julho de 2019 (5 meses) Joinville, Santa Catarina, Brasil
 
 
 ## Formação acadêmica
-Universidade Federal de Juiz de Fora
+Universidade Federal de Juiz de Fora · 
 Economia · (março de 2023 - março de 2027)
 
-Universidade Federal de Santa Catarina
+Universidade Federal de Santa Catarina · 
 Engeharia Aeroespacial (incompleto) · (2018 - 2023)
 
-Colegio Naval
+Colegio Naval · 
 Ensino Médio Profissionalizante (Pós-médio), Aspirante ao oficialato da Marinha do Brasil · (2015 - 2017)
 
 ## Principais competências
-Análise de dados
+Data Analysis
 |
 Web Scraping
 |
