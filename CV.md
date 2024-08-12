@@ -29,13 +29,13 @@ Moreover, I am passionate about research and aspire to bring effective solutions
 Additionally, I have won awards in mathematics and physics olympiads, participated in the construction of competition rockets, and engaged in extension projects. My academic background includes studies at the Brazilian Navy, Aeroespace Engineering at UFSC, and currently Economics at UFJF.
 
 ## Experiência
-### Grupo Voitto
+#### Grupo Voitto
 Gestão & Produtos
 - Leveraged prompt engineering to enhance learning experiences. Developed a variety of educational materials including PowerPoint presentations, lecture content, video scripts, and assessments, directly contributing to improved product quality.
 julho de 2024 - agosto de 2024 (2 meses)  
 Juiz de Fora, Minas Gerais, Brasil
 
-### ABC da Construção S.A.
+#### ABC da Construção S.A.
 Business Analyst
 - In Pricing, I develop solutions for monitoring and analyzing competitor prices to enhance the company's profitability. In CRM performance, I handle the entire ETL process of CRM information related to the portfolio of prospective franchisees and generate relevant daily reports.
 julho de 2023 - julho de 2024 (1 ano 1 mês)
@@ -44,19 +44,19 @@ Juiz de Fora, Minas Gerais, Brasil
 SDR
 - junho de 2022 - julho de 2023 (1 ano 2 meses) Juiz de Fora, Minas Gerais, Brasil
 
-### Kosmos Rocketry
+#### Kosmos Rocketry
 Propulsion Sector ·
 setembro de 2018 - dezembro de 2019 (1 ano 4 meses) · Joinville, Santa Catarina, Brasil
 - Research and development of the Solid-propellant Rocket Motor Class "i" and Class "M".
 Static fire tests with Class "i" Motor.
 Sugar based Solid-Propellants researches and testing.
 
-### Universidade Federal de Santa Catarina
+#### Universidade Federal de Santa Catarina
 Calculus Discipline Assistent · 
 março de 2019 - julho de 2019 (5 meses) Joinville, Santa Catarina, Brasil
 
 
-## Formação acadêmica
+## Grades
 Universidade Federal de Juiz de Fora · 
 Economia · (março de 2023 - março de 2027)
 
@@ -66,7 +66,7 @@ Engeharia Aeroespacial (incompleto) · (2018 - 2023)
 Colegio Naval · 
 Ensino Médio Profissionalizante (Pós-médio), Aspirante ao oficialato da Marinha do Brasil · (2015 - 2017)
 
-## Principais competências
+## Key Competece
 Data Analysis
 |
 Web Scraping
