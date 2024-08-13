@@ -42,7 +42,7 @@ julho de 2023 - julho de 2024 (1 ano 1 mês)
 Juiz de Fora, Minas Gerais, Brasil
 
 SDR
-- junho de 2022 - julho de 2023 (1 ano 2 meses) Juiz de Fora, Minas Gerais, Brasil
+- Proficient in Inbound and Outbound recruitment methodologies, specializing in identifying and engaging top potentioal candidates. Developed and implemented novel strategies to improve candidate experience and increase Lead conversion rates. .junho de 2022 - julho de 2023 (1 ano 2 meses) Juiz de Fora, Minas Gerais, Brasil
 
 #### Kosmos Rocketry
 Propulsion Sector ·
