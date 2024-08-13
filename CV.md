@@ -6,7 +6,7 @@ Juiz de Fora, Minas Gerais, Brasil
   
   <a href="https://github.com/arthbraveheart">GitHub</a>
   |
-  <a href="www.linkedin.com/in/arthur- braveheart">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/arthur- braveheart">LinkedIn</a>
   |
  <a href="https://wa.me/5532985140754">WhatsApp</a>
   |
