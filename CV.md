@@ -28,7 +28,7 @@ Moreover, I am passionate about research and aspire to bring effective solutions
 
 Additionally, I have won awards in mathematics and physics olympiads, participated in the construction of competition rockets, and engaged in extension projects. My academic background includes studies at the Brazilian Navy, Aeroespace Engineering at UFSC, and currently Economics at UFJF.
 
-## Experiência
+## Experience
 #### Grupo Voitto
 Gestão & Produtos
 - Leveraged prompt engineering to enhance learning experiences. Developed a variety of educational materials including PowerPoint presentations, lecture content, video scripts, and assessments, directly contributing to improved product quality.
