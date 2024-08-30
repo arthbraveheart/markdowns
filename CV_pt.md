@@ -20,7 +20,7 @@ Experiência em análise de dados, com foco em habilidades como web scraping, pr
 
 As principais ferramentas utilizadas são: Python, SQL, PostgreSQL, Excel e Power BI.
 
-Além disso, é emlenhado em pesquisas e aspira a trazer soluções eficazes para o mundo em que vivo.
+Além disso, é empenhado em pesquisas e aspira a trazer soluções eficazes para o mundo em que vivo.
 
 Adicionalmente, conquistou premiações em olimpíadas de matemática e física, participou da construção de foguetes de competição e se envolveu em projetos de extensão. 
 A formação acadêmica inclui estudos na Marinha do Brasil, Engenharia Aeroespacial na UFSC e atualmente Economia na UFJF.
@@ -28,18 +28,18 @@ A formação acadêmica inclui estudos na Marinha do Brasil, Engenharia Aeroespa
 ## Experiência
 #### Grupo Voitto
 Gestão & Produtos
-- Utilizou engenharia de prompt para aprimorar experiências de aprendizagem. Desenvolveu uma variedade de materiais educacionais, incluindo apresentações em PowerPoint, conteúdos para aulas, roteiros de vídeos e avaliações, contribuindo diretamente para a melhoria da qualidade do produto.
+- Utilizou engenharia de prompt para aprimorar experiências de aprendizagem dos alunos. Desenvolveu uma variedade de materiais educacionais, incluindo apresentações em PowerPoint, conteúdos para aulas, roteiros de vídeos e avaliações, contribuindo diretamente para a melhoria da qualidade do produto.
 julho de 2024 - agosto de 2024 (2 meses)  
 Juiz de Fora, Minas Gerais, Brasil
 
 #### ABC da Construção S.A.
 Analista de Negócios
-- Em Precificação, desenvolvo soluções para monitorar e analisar preços de concorrentes (utilizando web scraping e técnicas de análise de dados), visando aumentar a lucratividade da empresa. No desempenho de CRM, gerencio todo o processo ETL das informações do CRM relacionadas ao portfólio de potenciais franqueados e gero relatórios diários relevantes. Cooperei no desenvolvimento e implantação de novos produtos, auxiliando na logística, mix de amostras e cálculos de margens. 
+- Atuou em três principais áreas: Pricing, CRM Performance e Novos Negócios. Em Precificação, desenvolveu soluções para monitorar e analisar preços de concorrentes (utilizando web scraping e técnicas de análise de dados), visando aumentar a lucratividade da empresa. No desempenho de CRM, gerencio todo o processo ETL das informações do CRM relacionadas ao portfólio de potenciais franqueados e gero relatórios diários relevantes tanto da carteira de clientes, time de vendas e campanhas marketing Inbound. Cooperou no desenvolvimento e implantação de novos produtos, auxiliando na logística, mix de amostras e cálculos de margens. 
 julho de 2023 - julho de 2024 (1 ano e 1 mês)
 Juiz de Fora, Minas Gerais, Brasil
 
 SDR
-- Prospectei candidatos, no modelo Inbound e Outbound, coma finalidade de converter os melhores perfis. Auxiliei na implantação de ideias inovadoras para reter candidatos e em técnicas de abordagem aumentando nossa conversão e qualidade do Lead.junho de 2022 - julho de 2023 (1 ano e 2 meses) Juiz de Fora, Minas Gerais, Brasil
+- Prospectou candidatos, no modelo Inbound e Outbound, com a finalidade de converter os melhores perfis. Auxiliei na implantação de ideias inovadoras para reter candidatos e em técnicas de abordagem aumentando nossa conversão e qualidade do Lead.junho de 2022 - julho de 2023 (1 ano e 2 meses) Juiz de Fora, Minas Gerais, Brasil
 
 #### Kosmos Rocketry
 Setor de Propulsão ·
@@ -75,6 +75,10 @@ Trabalho em equipe
 
 ## Certificações
 [IBM Professional Data Scientist](https://www.credly.com/badges/13574839-031d-4aff-a74c-64e016c2e02f/public_url)
+|
+[Java Programing Language](https://www.sololearn.com/certificates/CT-HKQYW6PH)
+|
+[C Programing Language](https://www.sololearn.com/certificates/CT-NSWVWKRV)
 
 ## Honras e Premiações
 Medalha de Prata na Olimpíada Brasileira de Física das Escolas Públicas (OBFEP)
