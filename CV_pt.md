@@ -1,3 +1,10 @@
+
+<h1 align="left">
+  <img src="https://github.com/arthbraveheart/markdowns/blob/main/Apresenta%C3%A7%C3%A3o%20sem%20t%C3%ADtulo%20(1).svg"
+    object-fit: cover;" alt="Polars logo">
+  <br>
+</h1>
+
 # Arthur Braveheart Barbosa Rodrigues
 ### Analista de Negócios e Dados • Crawler • Performance • SDR • Estudante de Economia, UFJF - Juiz de Fora, MG
 Juiz de Fora, Minas Gerais, Brasil
