@@ -3,7 +3,7 @@
 <p style="text-align:center;">Data Science Expert | Machine Learning Engineer</p>
 <p style="text-align:center;">Email: johndoe@example.com | LinkedIn: linkedin.com/in/johndoe | GitHub: github.com/johndoe</p>
 
-<hr />
+<hr/>
 
 <!-- Horizontal Layout -->
 <table width="100%">
