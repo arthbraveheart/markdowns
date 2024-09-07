@@ -11,7 +11,7 @@
 - **Cloud |** AWS (S3, Lambda, SageMaker) • Google Cloud (BigQuery)
 
 
-Contato:
+**Contato**:
 <p align="center">
   
   <a href="https://github.com/arthbraveheart">GitHub</a>
