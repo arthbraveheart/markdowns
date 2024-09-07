@@ -56,14 +56,14 @@ Pesquisas e testes com Propelentes Sólidos à base de açúcar.
 março de 2019 - julho de 2019 (5 meses) Joinville, Santa Catarina, Brasil
 
 ## Formação
-Universidade Federal de Juiz de Fora · 
-Economia · (março de 2023 - março de 2027)
+**Universidade Federal de Juiz de Fora** · 
+*Economia* · (março de 2023 - março de 2027)
 
-Universidade Federal de Santa Catarina · 
-Engenharia Aeroespacial (incompleto) · (2018 - 2023)
+**Universidade Federal de Santa Catarina** · 
+*Engenharia Aeroespacial* (incompleto) · (2018 - 2023)
 
-Colégio Naval · 
-Ensino Médio Profissionalizante (Pós-médio), Aspirante ao oficialato da Marinha do Brasil · (2015 - 2017)
+**Colégio Naval** · 
+*Ensino Médio Profissionalizante (Pós-médio), Aspirante ao oficialato da Marinha do Brasil* · (2015 - 2017)
 
 ## Principais Competências
 Análise de Dados
@@ -83,10 +83,7 @@ Trabalho em equipe
 Inglês Avançado.
 
 ## Honras e Premiações
-Medalha de Prata na Olimpíada Brasileira de Física das Escolas Públicas (OBFEP)
-|
-Medalha de Bronze na Olimpíada Brasileira de Física das Escolas Públicas (OBFEP)
-|
-Medalha de Bronze na Olimpíada Mineira de Matemática (OMM)
-|
-Medalha de Ouro na Olimpíada Internacional de Mathématiques Sans Frontière
+-  **Medalha de Prata** • Olimpíada Brasileira de Física das Escolas Públicas (OBFEP)
+-  **Medalha de Bronze** • Olimpíada Brasileira de Física das Escolas Públicas (OBFEP)
+-  **Medalha de Bronze** • Olimpíada Mineira de Matemática (OMM)
+-  **Medalha de Ouro** • Olimpíada Internacional de Mathématiques Sans Frontière
