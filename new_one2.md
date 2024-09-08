@@ -45,9 +45,10 @@ Testes estáticos com o Motor Classe "i".
 Pesquisas e testes com Propelentes Sólidos à base de açúcar.
 
 
-#### `Universidade Federal de Santa Catarina` • *Assistente de Disciplina de Cálculo* 
-março de 2019 - julho de 2019 (5 meses) Joinville, Santa Catarina, Brasil
+#### `Universidade Federal de Santa Catarina` • *Assistente de Disciplina de Cálculo I* 
+- Auxílio ao alunos nas disciplinas de Cálculo I, com resolução de exercícios, aulas extras e métodos que preconizam a imaginação e o conceito do conteúdo para um efetivo aprendizado. 
 
+ 
 ## Formação
 **Universidade Federal de Juiz de Fora** · 
 *Economia* · (março de 2023 - março de 2027)
