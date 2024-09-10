@@ -25,7 +25,7 @@
 
 ## Summary
 
-Data Scientist with strong expertise in mathematics, exploratory data analysis, ETL process automation, data modeling, and visualization using tools like Python, SQL, Power BI, and PostgreSQL. Specialized in web scraping, CRM optimization, and delivering actionable reports. Passionate about deepening knowledge in machine learning, big data, and cloud solutions to generate impactful insights.
+Data Scientist with strong expertise in mathematics, exploratory data analysis, ETL process automation, data modeling, and visualization using tools like Python, SQL, Power BI, and PostgreSQL. Specialized in web scraping, CRM optimization, and delivering actionable reports and business strategies. Passionate about deepening knowledge in machine learning, big data, and cloud solutions to generate impactful insights.
 
 ## Professional Experience
 
