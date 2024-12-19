@@ -16,15 +16,20 @@ Juiz de Fora, Minas Gerais, Brasil
 
 ## Resumo
 
-Experiência em análise de dados, com foco em habilidades como web scraping, processos ETL, integração com bancos de dados em nuvem, desempenho de CRM e visualização de relatórios utilizando ferramentas de Business Intelligence.
+Experiência em análise de dados, com foco em habilidades como web scraping, processos ETL, integração com bancos de dados em nuvem, desempenho de CRM, visualização de relatórios utilizando ferramentas de Business Intelligence, desenvolvimento web com Django, conteiners (Docker e Kubernetes), automatização de tarefas (Airflow, CronJobs).
 
-As principais ferramentas utilizadas são Python, SQL, PostgreSQL, Excel e Power BI.
+As principais ferramentas utilizadas são Python, SQL, PostgreSQL, Excel, Power BI e AWS.
 
 Além disso, é empenhado em pesquisas e aspira a trazer soluções eficazes para o mundo em que vive.
 
 Conquistou premiações em olimpíadas de matemática e física, participou da construção de foguetes para competição e se envolveu em projetos de extensão. Formação acadêmica inclui estudos na Marinha do Brasil, Engenharia Aeroespacial na UFSC e atualmente Economia na UFJF.
 
 ## Experiência
+#### Mucho AI
+Data & Business Intelligence
+- Integração do Banco de Dados com dashboards para monitoramentos diários. Desenvolvimento de um aplicativo que gerencia toda a carteira de clientes oferecendo insights, reports, mapas, notificações (via whatsapp e email). Foi desenvolvido com o framework Django, backend PostgreSQL utilizando práticas de conteinerização (Docker e Kubernetes) gerenciados na AWS (cloud computing). Todos os dados coletados alimentam modelos de otimização e dashboards para usuários e líderes. 
+
+
 #### Grupo Voitto
 Gestão & Produtos
 - Engenharia de prompt para aprimorar experiências de aprendizagem dos alunos. Desenvolveu uma variedade de materiais educacionais, incluindo apresentações em PowerPoint, conteúdos para aulas, roteiros de vídeos e avaliações, contribuindo diretamente para a melhoria da qualidade do produto e desempenho dos alunos.
